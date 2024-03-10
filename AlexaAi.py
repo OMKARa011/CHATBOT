@@ -52,16 +52,14 @@ async def chatbot(client, message):
         photo=f"https://te.legra.ph/file/1500aa6ece4b86aea9021.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ ʟᴇɢᴇɴᴅ ɢᴏᴅғᴀᴛʜᴇʀ 🔥
+ᴏғ ♻️ ʟᴇɢɴᴅ ᴅᴇᴠɪʟ  🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ɢᴏᴅғᴀᴛʜᴇʀ](https://t.me/your_godfather_xd)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/ABOUT_GODFATHER/281)
-┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Incricible_music_support)
-┣★ ɪɴᴄʀɪᴄɪʙʟᴇ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/INCRICIBLE_FED)
+┣★ ᴄʀᴇᴀᴛᴇʀ [ DEVIL ](https://t.me/II_DEVIL_X_JAI_III)
+┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/mareez_e_ishqiya)
+┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/JUST_DEVIL_TEAM)
 ┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/mrtosumemon/CHATBOT)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/INCRICIBLE)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
 IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @INCRICIBLE""",
